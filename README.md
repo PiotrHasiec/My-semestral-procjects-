@@ -1,2 +1,2 @@
 # My-semestral-procjects-
-collection of my semester projects
+Collection of my semesteral projects on Computer Science studies
